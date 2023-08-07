@@ -1,0 +1,1 @@
+# smol-chrome-job-buddy
